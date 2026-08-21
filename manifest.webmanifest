@@ -1,0 +1,27 @@
+{
+  "name": "Dr. Abuagla Lab - د. ابوعاقلة للمختبرات",
+  "short_name": "Abuagla Lab",
+  "description": "د. ابوعاقلة للمختبرات وشركة سوفت بور للمستلزمات الطبية",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#087F5B",
+  "background_color": "#07131C",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
